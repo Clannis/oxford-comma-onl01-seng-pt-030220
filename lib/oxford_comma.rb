@@ -9,4 +9,5 @@ def oxford_comma(array)
     output = array.join(", ")
     output += ", and " +"last_item"
     return output
+  end
 end
